@@ -2,7 +2,7 @@
 <h3 align="center">CS Student | Full-Stack Developer | ML Explorer | Always Learning 🚀</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9F79EE&width=500&center=true&vCenter=true&lines=👨‍💻+Computer+Science+Student;🌐+Full-Stack+Developer+(MERN);🧠+ML+Enthusiast+working+with+PyTorch;🚀+Lifelong+Learner" alt="Typing SVG" />
+ <img src="header.svg" alt="Typing SVG">
 </p>
 
 ---
